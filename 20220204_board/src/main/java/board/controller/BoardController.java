@@ -76,6 +76,8 @@ public class BoardController {
 		
 	}
 	
+	//커밋두번째하
+	
 	
  
 }
